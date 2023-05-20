@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <div class="qi_love">
-    
-  </div>
+
 </template>
 
 <style scoped>
