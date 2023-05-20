@@ -6,7 +6,7 @@
   <div class="qi_love">加油啊啊是巨大打击啊加大打击打击打击阿斗</div>
 </template>
 
-<style scoped>
+<style>
 .qi_love{
   width: 500px;
   height: 500px;
